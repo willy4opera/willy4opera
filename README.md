@@ -5,7 +5,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/B8Pxgnj.png" width="800" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=Software+Engineer+💻;Full+Stack+Developer+🌐;Problem+Solver+🧩;Always+Learning+📚" alt="Typing SVG" />
 </div>
 
 <div id="badges" align="center">
