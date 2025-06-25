@@ -1,65 +1,213 @@
-<div id="header" align="center">
-  <img src="https://i.imgur.com/B8Pxgnj.png" width="700"/>
-
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/obiajulu-odionye-2736a563/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="twitter.com/wilzeal1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a><br>
-  <img align="center" src="https://komarev.com/ghpvc/?username=willy4opera&style=flat-square&color=blue" alt=""/>
-</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+# 🚀 Welcome to My Digital Universe! 
+
+<div id="header" align="center">
+  <img src="https://i.imgur.com/B8Pxgnj.png" width="800" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/obiajulu-odionye-2736a563/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/wilzeal1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/willy4opera" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=willy4opera&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/willy4opera?style=for-the-badge&color=blue" alt="GitHub Followers"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius: 10px;"/>
+</div>
+
 </div>
 
 ---
 
+## 🎯 About Me
 
-### :man_technologist: About Me :
-### :wave: I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
+### Hi there! 👋 I'm a passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
 
-### Hi there 👋
+I'm a dedicated software engineer with a passion for creating innovative solutions and learning cutting-edge technologies. Currently pursuing my journey at ALX Africa, I'm focused on building impactful applications that solve real-world problems.
 
-- 🔭 I’m currently learning Software Engineering at ALX Africa...
-- 🌱 I’m currently learning Python Programing and Next.JS Framework ...
-- 👯 I’m looking to collaborate on project relating to web developement ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: ...
+### 🌟 Current Focus
+- 🔭 **Learning**: Advanced Software Engineering at ALX Africa
+- 🌱 **Growing**: Mastering Python Programming and Next.JS Framework
+- 👯 **Collaborating**: Open to web development projects and innovative solutions
+- 🎯 **Goals**: Contributing to open source projects and building scalable applications
+- 💬 **Ask me about**: Web development, Python, JavaScript, and software architecture
+- 📫 **Reach me**: Available for exciting opportunities and collaborations
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I turn coffee into code and ideas into reality!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css" />
+</div>
+
+### 🚀 Frontend Technologies
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind,bootstrap" />
+</div>
+
+### ⚙️ Backend & Databases
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgresql,mongodb" />
+</div>
+
+### 🛠️ Tools & Platforms
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,firebase" />
+</div>
+
+### 📱 Mobile Development
+<div>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</div>
+
 </div>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willy4opera&theme=dark&background=000000)](https://git.io/streak-stats)
+## 📊 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willy4opera)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=willy4opera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=willy4opera&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy4opera&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=willy4opera&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willy4opera&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Current Projects & Goals
+
+<div align="center">
+
+| 🎯 Goal | 📈 Progress | 🎉 Status |
+|---------|-------------|-----------|
+| Master Python | ![Progress](https://progress-bar.dev/75/) | 🔥 In Progress |
+| Next.js Expertise | ![Progress](https://progress-bar.dev/60/) | 📚 Learning |
+| Open Source Contributions | ![Progress](https://progress-bar.dev/40/) | 🚀 Started |
+| Full Stack Projects | ![Progress](https://progress-bar.dev/80/) | 💪 Strong |
+
+</div>
+
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willy4opera&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/willy4opera/your-awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willy4opera&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/willy4opera/another-cool-project)
+
+</div>
+
+---
+
+## 💡 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Scalable Web Applications with Next.js
+- 🐍 Python Best Practices for Clean Code
+- 🎯 My Journey at ALX Africa Software Engineering Program
+- 🌐 Full Stack Development: From Concept to Deployment
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🐍 Watch my contributions get eaten by the snake 🐍
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/willy4opera/willy4opera/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology!
+
+### 📬 Get in Touch
+
+<a href="https://www.linkedin.com/in/obiajulu-odionye-2736a563/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/wilzeal1" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_me_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+### ☕ Support My Work
+
+If you find my projects helpful, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/willy4opera" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  **⭐ Star my repositories if you find them interesting!**
+  
+  <sub>💙 Thanks for visiting my profile! Have a great day! 💙</sub>
+</div>
