@@ -5,7 +5,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/B8Pxgnj.png" width="800" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
   <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=Software+Engineer+💻;Full+Stack+Developer+🌐;Problem+Solver+🧩;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=Software+Engineer+💻;Full+Stack+Developer+🌐;Problem+Solver+🧩;Always+Learning+📚" alt="Typing SVG" />
 </div>
 
 <div id="badges" align="center">
@@ -15,7 +15,7 @@
   <a href="https://williamsobi.com.ng" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://x.com/williamssobi" target="_blank">
+  <a href="https://x.com/wilzeal1" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="mailto:icare@williamsobi.com.ng" target="_blank">
@@ -142,6 +142,14 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 
 ---
 
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willy4opera&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution Activity" style="border-radius: 20px;"/>
+</div>
+
+---
+
 ## 🎯 Current Projects & Goals
 
 <div align="center">
@@ -183,14 +191,6 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="border-radius: 20px;"/>
-</div>
-
----
-
-## 🐍 Watch my contributions get eaten by the snake 🐍
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/willy4opera/willy4opera/output/github-contribution-grid-snake.svg" style="border-radius: 20px;"/>
 </div>
 
 ---
