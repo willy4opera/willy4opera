@@ -15,7 +15,7 @@
   <a href="https://williamsobi.com.ng" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://x.com/wilzeal1" target="_blank">
+  <a href="https://x.com/williamssobi" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="mailto:icare@williamsobi.com.ng" target="_blank">
@@ -48,7 +48,7 @@
 I'm a dedicated software engineer with a passion for creating innovative solutions and learning cutting-edge technologies. Currently pursuing my journey at ALX Africa, I'm focused on building impactful applications that solve real-world problems.
 
 ### 🌟 Current Focus
-- 🔭 **Learning**: Advanced Software Engineering at ALX Africa
+- 🔭 **Building**: Built A Supper Fast IMEI checking Application using REST API, PHP backend, Admin Next.js
 - 🌱 **Growing**: Mastering Python Programming and Next.JS Framework
 - 👯 **Collaborating**: Open to web development projects and innovative solutions
 - 🎯 **Goals**: Contributing to open source projects and building scalable applications
