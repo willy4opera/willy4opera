@@ -196,11 +196,11 @@ I'm always excited to connect with fellow developers, collaborate on interesting
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/wilzeal1" target="_blank">
+<a href="https://twitter.com/williamssobi" target="_blank">
   <img src="https://img.shields.io/badge/Follow_me_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:icare@williamsobi.com.ng" target="_blank">
   <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
