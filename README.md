@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="i.imgur.com/B8Pxgnj.png" width="700"/>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.imgur.com/B8Pxgnj.png" width="700"/>
+
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/obiajulu-odionye-2736a563/">
