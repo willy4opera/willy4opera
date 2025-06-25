@@ -93,11 +93,23 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=willy4opera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=willy4opera&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy4opera&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=willy4opera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=willy4opera&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy4opera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=600" alt="Top Languages" />
 
 </div>
 
@@ -114,7 +126,7 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willy4opera&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willy4opera&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ---
