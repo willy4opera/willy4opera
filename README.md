@@ -3,7 +3,7 @@
 # 🚀 Welcome to My Digital Universe! 
 
 <div id="header" align="center">
-  <img src="https://i.imgur.com/B8Pxgnj.png" width="800" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <img src="https://i.imgur.com/B8Pxgnj.png" width="800" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
@@ -12,13 +12,13 @@
   <a href="https://www.linkedin.com/in/obiajulu-odionye-2736a563/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://williamsobi.com.ng" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://twitter.com/wilzeal1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/wilzeal1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:icare@williamsobi.com.ng" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/willy4opera" target="_blank">
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius: 20px;"/>
 </div>
 
 </div>
@@ -39,9 +39,11 @@
 
 ## 🎯 About Me
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+<table>
+<tr>
+<td width="70%">
 
-### Hi there! 👋 I'm a passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+### Hi there! 👋 I'm a passionate Software Engineer from Nigeria
 
 I'm a dedicated software engineer with a passion for creating innovative solutions and learning cutting-edge technologies. Currently pursuing my journey at ALX Africa, I'm focused on building impactful applications that solve real-world problems.
 
@@ -55,6 +57,15 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I turn coffee into code and ideas into reality!
 
+</td>
+<td width="30%">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" style="border-radius: 20px;"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -63,27 +74,27 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 
 ### 💻 Programming Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css" style="border-radius: 20px;"/>
 </div>
 
 ### 🚀 Frontend Technologies
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind,bootstrap" style="border-radius: 20px;"/>
 </div>
 
 ### ⚙️ Backend & Databases
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgresql,mongodb" style="border-radius: 20px;"/>
 </div>
 
 ### 🛠️ Tools & Platforms
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,firebase" style="border-radius: 20px;"/>
 </div>
 
 ### 📱 Mobile Development
 <div>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" style="border-radius: 20px;"/>
 </div>
 
 </div>
@@ -98,18 +109,18 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=willy4opera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=willy4opera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="border-radius: 20px;"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=willy4opera&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=willy4opera&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 20px;"/>
 
 </td>
 </tr>
 </table>
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy4opera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=600" alt="Top Languages" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy4opera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=600" alt="Top Languages" style="border-radius: 20px;"/>
 
 </div>
 
@@ -118,7 +129,7 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willy4opera&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=willy4opera&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" style="border-radius: 20px;"/>
 </div>
 
 ---
@@ -126,7 +137,7 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willy4opera&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willy4opera&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" style="border-radius: 20px;"/>
 </div>
 
 ---
@@ -171,7 +182,7 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 ## 🎨 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="border-radius: 20px;"/>
 </div>
 
 ---
@@ -179,7 +190,7 @@ I'm a dedicated software engineer with a passion for creating innovative solutio
 ## 🐍 Watch my contributions get eaten by the snake 🐍
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/willy4opera/willy4opera/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/willy4opera/willy4opera/output/github-contribution-grid-snake.svg" style="border-radius: 20px;"/>
 </div>
 
 ---
@@ -196,8 +207,12 @@ I'm always excited to connect with fellow developers, collaborate on interesting
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/williamssobi" target="_blank">
-  <img src="https://img.shields.io/badge/Follow_me_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://williamsobi.com.ng" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_my_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://x.com/wilzeal1" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="mailto:icare@williamsobi.com.ng" target="_blank">
