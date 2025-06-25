@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://biwillzcomputers.com/_-Flashware_-/wp-content/uploads/2023/11/Github.png" width="700"/>
+  <img src="i.imgur.com/B8Pxgnj.png" width="700"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/obiajulu-odionye-2736a563/">
