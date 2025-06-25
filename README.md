@@ -15,7 +15,7 @@
   <a href="https://williamsobi.com.ng" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://x.com/wilzeal1" target="_blank">
+  <a href="https://x.com/williamssobi" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="mailto:icare@williamsobi.com.ng" target="_blank">
