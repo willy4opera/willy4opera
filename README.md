@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="i.imgur.com/B8Pxgnj.png" width="700"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/obiajulu-odionye-2736a563/">
